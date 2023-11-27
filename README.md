@@ -1,12 +1,12 @@
 # CNP14-WDR91
 
-An [SGC]((https://www.thesgc.org/)) Open Chemistry Networks Project 14 devoted to protein WDR91.
+An [SGC]((https://www.thesgc.org/)) Open Chemistry Networks Project 14 devoted to protein WDR91. This protein may be an important target for the creation of new host-directed antivirals.
 
 You contribute synthetic chemistry and in return the SGC offers biology. Together we can generate tool compounds to understand biology and validate drug targets to help cure disease. Everything is open, with all content governed by a CC-BY-4.0 licence.
 
 If this sounds interesting, and you agree to the simple [RULES](https://www.thesgc.org/sgc-open-chemistry-networks/terms-of-use), you can get started.
 
-For the science background, head to the [wiki](url) or check out the living paper that is being written [here](url).
+For the science background, head to the [wiki]([url](https://github.com/StructuralGenomicsConsortium/CNP14-WDR91/wiki)) or check out the living paper that is being written [here](url) <-- need to start.
 
 For answers to all the questions you have, go to the [FAQs](https://www.thesgc.org/sgc-open-chemistry-networks/faq).
 
