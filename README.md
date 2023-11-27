@@ -1,6 +1,6 @@
 # CNP14-WDR91
 
-An [SGC]((https://www.thesgc.org/)) Open Chemistry Networks Project 14 devoted to protein WDR91. This protein may be an important target for the creation of new host-directed antivirals.
+An [SGC]((https://www.thesgc.org/)) Open Chemistry Networks Project 14 devoted to protein WDR91. This protein may be an important target for the creation of new host-directed antivirals. The aim of this project is to find a tight (micromolar) small molecule binder of this protein.
 
 You contribute synthetic chemistry and in return the SGC offers biology. Together we can generate tool compounds to understand biology and validate drug targets to help cure disease. Everything is open, with all content governed by a CC-BY-4.0 licence.
 
@@ -18,7 +18,7 @@ Dr. Levon Halabelian, UofT, SGC Toronto
 Dr. Suzanne Ackloo, UofT, SGC Toronto  
 Dr. Santha Santhakumar, UofT, SGC Toronto  
 Dr. Shabbir Ahmad, UofT  
-Kangping Liu, UCL, PhD candidate in School of Pharmacy  
+Kangping Liu, UCL, PhD candidate in School of Pharmacy at UCL  
 
 You can see other contributors in the Issues (tab above).
 
