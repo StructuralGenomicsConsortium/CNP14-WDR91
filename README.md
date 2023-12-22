@@ -16,9 +16,11 @@ People involved in this CNP:
 Prof. Matthew Todd, UCL, Head of Chemistry Networks at the SGC @mattodd  
 Dr. Levon Halabelian, UofT, SGC Toronto  
 Dr. Suzanne Ackloo, UofT, SGC Toronto  
-Dr. Santha Santhakumar, UofT, SGC Toronto  
+Dr. Santha Santhakumar, UofT, SGC Toronto @Santha-SGC 
 Dr. Shabbir Ahmad, UofT  
-Kangping Liu, UCL, PhD candidate in School of Pharmacy at UCL  
+Kangping Liu, UCL, PhD candidate in School of Pharmacy at UCL @KangpingL  
+Mohamad Sharizan, MPharm student, UCL @Mohamadshahir15
+Prof. Matthieu Schapira, University of Toronto
 
 You can see other contributors in the Issues (tab above).
 
