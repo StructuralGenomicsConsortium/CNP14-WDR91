@@ -1,6 +1,6 @@
 # CNP14-WDR91
 
-An [SGC]((https://www.thesgc.org/)) Open Chemistry Networks Project 14 devoted to protein WDR91. This protein may be an important target for the creation of new host-directed antivirals. The aim of this project is to find a tight (micromolar) small molecule binder of this protein.
+An [SGC]((https://www.thesgc.org/)) Open Chemistry Networks Project 14 devoted to protein WDR91. This protein may be an important target for the creation of new host-directed antivirals. The aim of this project is to find a tight (micromolar) small molecule binder of this protein and extends the work described in [this 2023 paper](https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.3c01471).
 
 You contribute synthetic chemistry and in return the SGC offers biology. Together we can generate tool compounds to understand biology and validate drug targets to help cure disease. Everything is open, with all content governed by a CC-BY-4.0 licence.
 
